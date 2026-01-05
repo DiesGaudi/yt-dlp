@@ -1152,6 +1152,7 @@ from .mirrativ import (
     MirrativUserIE,
 )
 from .mirrorcouk import MirrorCoUKIE
+from .missav import MissAVIE
 from .mit import (
     OCWMITIE,
     TechTVMITIE,
